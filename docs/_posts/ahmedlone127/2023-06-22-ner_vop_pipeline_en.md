@@ -16,9 +16,9 @@ article_header:
 use_language_switcher: "Python-Scala-Java"
 
 deploy:
-  sagemaker_link: https://aws.amazon.com/marketplace/pp/prodview-fy6n2ebwakpqy
+  sagemaker_link: 
   snowflake_link: 
-  databricks_link: https://marketplace.databricks.com/details/685dab5c-03cb-4545-9a71-e08ae72946e6/John-Snow-Labs_Extract-patient-information-from-patient-narratives
+  databricks_link: 
 
 ---
 
