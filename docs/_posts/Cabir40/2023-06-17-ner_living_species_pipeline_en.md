@@ -39,12 +39,6 @@ This pretrained pipeline is built on the top of [ner_living_species](https://nlp
 [Copy S3 URI](s3://auxdata.johnsnowlabs.com/clinical/models/ner_living_species_pipeline_en_4.4.4_3.2_1686961239767.zip){:.button.button-orange.button-orange-trans.button-icon.button-copy-s3}
 
 {% if page.deploy %}
-## Available as Private API Endpoint
-
-{:.tac}
-{% include display_platform_information.html %}
-{% endif %}
-
 ## How to use
 
 
