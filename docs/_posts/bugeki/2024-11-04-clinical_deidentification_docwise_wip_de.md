@@ -38,12 +38,6 @@ The pipeline can mask and obfuscate: `LOCATION`, `DATE`, `NAME`, `ID`, `AGE`, `P
 [Copy S3 URI](s3://auxdata.johnsnowlabs.com/clinical/models/clinical_deidentification_docwise_wip_de_5.5.0_3.4_1730716164474.zip){:.button.button-orange.button-orange-trans.button-icon.button-copy-s3}
 
 {% if page.deploy %}
-## Available as Private API Endpoint
-
-{:.tac}
-{% include display_platform_information.html %}
-{% endif %}
-
 ## How to use
 
 
