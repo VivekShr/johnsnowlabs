@@ -39,12 +39,6 @@ This pretrained pipeline maps entities with their corresponding ICD-10-CM codes.
 [Copy S3 URI](s3://auxdata.johnsnowlabs.com/clinical/models/icd10cm_resolver_pipeline_en_4.4.4_3.0_1687415557518.zip){:.button.button-orange.button-orange-trans.button-icon.button-copy-s3}
 
 {% if page.deploy %}
-## Available as Private API Endpoint
-
-{:.tac}
-{% include display_platform_information.html %}
-{% endif %}
-
 ## How to use
 
 <div class="tabs-box" markdown="1">
