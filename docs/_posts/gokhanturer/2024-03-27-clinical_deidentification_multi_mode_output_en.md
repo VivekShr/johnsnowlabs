@@ -39,13 +39,6 @@ This pipeline simultaneously produces masked with entity labels, fixed-length ch
 
 
 {% if page.deploy %}
-## Available as Private API Endpoint
-
-{:.tac}
-{% include display_platform_information.html %}
-{% endif %}
-
-
 ## How to use
 
 
