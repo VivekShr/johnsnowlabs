@@ -39,12 +39,6 @@ This pipeline is trained with sciwiki_300d embeddings and can be used to deident
 [Copy S3 URI](s3://auxdata.johnsnowlabs.com/clinical/models/clinical_deidentification_es_4.4.4_3.0_1686979448782.zip){:.button.button-orange.button-orange-trans.button-icon.button-copy-s3}
 
 {% if page.deploy %}
-## Available as Private API Endpoint
-
-{:.tac}
-{% include display_platform_information.html %}
-{% endif %}
-
 ## How to use
 
 <div class="tabs-box" markdown="1">
